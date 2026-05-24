@@ -1,1 +1,3 @@
+All figures and graphs included in this project were generated using Python libraries including Matplotlib and Seaborn in Google Colab environment.
 
+Source code for figure generation is included in the Google Colab notebook uploaded in the Codes folder.
